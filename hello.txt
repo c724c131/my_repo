@@ -1,4 +1,4 @@
 hello Git
 This is Git practice file.
 three modifiy
-what make us different
+what make us same
